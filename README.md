@@ -1,5 +1,5 @@
 # Selenium-Project&Practice
-My_Selenium_Practice
+My_Selenium_Project&Practice
 
 by Dilimulati Daniyaer ( Daniel )
 
