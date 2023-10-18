@@ -1,4 +1,4 @@
-# Selenium-Practice
+# Selenium-Project&Practice
 My_Selenium_Practice
 
 by Dilimulati Daniyaer ( Daniel )
