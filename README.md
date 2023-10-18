@@ -6,5 +6,8 @@ This is my Selenium + Eclipse IDE Automation practice.
 
 ## Includes
 - Selenium Automation
-- REST API testing with Eclipse
+  - Under the "src/introduction" folder
+- REST API testing with Eclipse IDE
+  - Under the "src/test/java" folder
 - TestNG Framework Practice
+  - Under the "src/test" folder
